@@ -15,5 +15,5 @@ document.writeln(obj['x']);//プラケット構文
 
 var x;
 var obj = {a:123};
-document.writeln(x);
+document.writeln(x);//undefined　未定義値
 document.writeln(obj.b);
